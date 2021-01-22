@@ -1,0 +1,54 @@
+#navi {
+    font-weight: 500;
+    font-family: 'Yusei Magic', sans-serif;
+    box-shadow: grey;
+}
+
+.shruti, #home {
+    padding-top: 50px;
+    font-size: 70px;
+    /* background-color: teal; */
+}
+
+.shruti {
+    font-family: 'Yusei Magic', sans-serif;
+    /* font-family: 'Satisfy', cursive; */
+    color: white;
+    border-width: 20px;;
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: 
+    rgba(2, 2, 22, 2)
+    
+}
+
+/* #home {
+    background-color: teal;
+    background-image: url('bg.jpg');
+} */
+#id {
+    text-decoration: white;
+}
+
+body {
+    
+    background-image: 
+    linear-gradient(
+      rgba(16, 0, 0, 0.45), 
+      rgba(2, 0, 14, 0.45)
+    ),
+    url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* backdrop-filter: blur(10px); */
+    background-color: #476A6F;
+  }
+.image {
+    border-radius: 350px ;
+    width: 400px;
+    height: 400px;
+    /* float: right; */
+    vertical-align: center;
+    padding: right 50px;
+}
